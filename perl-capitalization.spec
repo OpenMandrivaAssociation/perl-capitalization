@@ -2,7 +2,7 @@
 
 Name:		perl-%{realname}
 Version:    0.03
-Release: %mkrel 3
+Release: %mkrel 4
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:    Perl module that allows no capitalization on method names
