@@ -8,6 +8,7 @@ Group:		Development/Perl
 Summary:    Perl module that allows no capitalization on method names
 Source0:    http://search.cpan.org/CPAN/authors/id/M/MI/MIYAGAWA/%{realname}-%{version}.tar.bz2
 Url:		http://search.cpan.org/dist/%{realname}
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	perl-devel
 BuildRequires:  perl-Devel-Symdump
 BuildArch: noarch
