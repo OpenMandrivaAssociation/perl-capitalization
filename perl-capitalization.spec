@@ -3,7 +3,7 @@
 
 Name:		perl-%{realname}
 Version:	%perl_convert_version %{upstream_version}
-Release:	1
+Release:	2
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:	Perl module that allows no capitalization on method names
